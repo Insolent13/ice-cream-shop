@@ -1,0 +1,35 @@
+/* Variables */
+
+:root {
+  --basic-white: #ffffff;
+  --basic-black: #323232;
+  --basic-neutral: #5a5a5a;
+  --basic: #849d8f;
+  --basic: #f8f7f4;
+  --basic: #999;
+  --basic: #9d8b84;
+
+  --special: #ededed;
+  --special: #ffbc9e;
+  --special: #e84d37;
+  --special: #ecf1ee;
+  --special: #d07058;
+  --basic-black: #000000;
+  --special: #ababab;
+  }
+
+  /* Global */
+
+  .page-body {
+    min-width: 1200px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', 'Arial', sans-serif;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 400;
+    color: var(--basic-white);
+    background-color: #849d8f;
+    background-image: url(""../img/sli.png");
+  }
+
