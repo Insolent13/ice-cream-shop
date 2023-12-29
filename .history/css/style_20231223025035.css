@@ -1,0 +1,28 @@
+/* Variables */
+
+:root {
+  --white: #ffffff;
+  --black: #000000;
+  --night-rider: #323232;
+  --zambezi: #5a5a5a;
+  --padua: #849d8f;
+  --floral-white: #f8f7f4;
+  --nobel: #999999;
+  --almond-frost: #9d8b84;
+  --brown-bramble: #58321f;
+  --whisper: #ededed;
+  --mandys-pink: #ffbc9e;
+  --cinnabar: #e84d37;
+  --lily-white: #ecf1ee;
+  --japonica: #d07058;
+  --dark-grey: #ababab;
+  --night-shadz: #aa2a4f;
+  }
+
+  /* Global */
+
+  .page-body {
+    min-width: 1200px;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', 'Arial', sans-serif;
